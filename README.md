@@ -1,8 +1,8 @@
 ### Hi there 👋, Mustafa Mahmoud
-#### A Junior Data Analytics Engineer, interested in data analysis and data Science
-I am was a student at the faculty of Computers and Artificial intelligence Helwan University and i am interested in many fields such as Data Science, Data analysis, and also media buying and digital marketing. I would like one day to start my own company in any of these fields. I am right now looking for internships and maybe appropriate part-time jobs.
+#### A Junior Data Analytics Engineer, interested in data analysis and data science.
+I was a student at the faculty of Computers and Artificial intelligence Helwan University and i am interested in many fields such as Data Science, Data analysis, and also media buying and digital marketing. I would like one day to start my own company in any of these fields.
 
-Skills: Python/Excel/Power BI/Data Visualization/Pandas/sklearn/Numpy
+Skills: SQL/Power BI/DBT/Python/Snowflake/Excel/Data Visualization/Pandas/Numpy
 
 - 🔭 I’m currently working on this page. 
 - 📫 How to reach me: mustafamabdelaziz@gmail.com 
