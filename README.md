@@ -1,11 +1,27 @@
-### Hi there 👋, Mustafa Mahmoud
-#### A Junior Data Analytics Engineer, interested in data analysis and data Science
-I am was a student at the faculty of Computers and Artificial intelligence Helwan University and i am interested in many fields such as Data Science, Data analysis, and also media buying and digital marketing. I would like one day to start my own company in any of these fields. I am right now looking for internships and maybe appropriate part-time jobs.
+# Adventure Works Data Exploration
 
-Skills: Python/Excel/Power BI/Data Visualization/Pandas/sklearn/Numpy
+The Adventure Works data is a dataset collected from an OLTP system for a store specializing in bikes and their accessories.
 
-- 🔭 I’m currently working on this page. 
-- 📫 How to reach me: mustafamabdelaziz@gmail.com 
+Our aim for this project is to explore the trends and insights from this dataset to get a glance at the performance of this store and to see what the most popular product is and if there is any seasonality in the data.
+## Installation
+
+To use this project you need to install Power BI Desktop.
+
+## Usage
+When you open the Power BI file called Adventure Works Data Exploration you will land on the overview page, you will see an overview of the data and you will find on te left-hand side three buttons to navigate between the three pages of the dashboard, feel free to go through each one and explore it and see what does it show.
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com//mustafaabdelaziz)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/mustafamabdelaziz/)  
+## Contributing
+
+Pull requests are welcome. For major changes, please open an issue first
+to discuss what you would like to change.
+
+Please make sure to update tests as appropriate.
+
+## Contact Information
+If you have any questions, feel free to reach out to me at mustafamabdelaziz@gmail.com.
+
+
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
